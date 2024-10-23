@@ -1,0 +1,7067 @@
+[
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "#1",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "#1 rated",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "%",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "% free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "% satisfied",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "$$$",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "0 down",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "0%",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "0% apr",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "0% risk",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "100%",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "100% free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "100% more",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "100% off",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "100% satisfied",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "4u",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "50% off",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "99.90%",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "99%",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "a few bob",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "accept cash cards",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "accept credit cards",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "acceptance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "access",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "access for free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "access now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "accordingly",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "account-based marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "accounts",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "act immediately",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "act now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "act now!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "action required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "ad",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "additional income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "addresses",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "addresses on cd",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "administration",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "affordable",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "affordable deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "affordable payment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "all natural",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "all new",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "all-natural",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "all-new",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "allowance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "amazed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "amazing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "amazing offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "amazing stuff",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "apply here",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "apply now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "apply online",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "as per",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "as seen on",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "as seen on oprah",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "at no cost",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "auto email removal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "avoid bankruptcy",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "bad credit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "ballot",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "bank statement",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "bankruptcy",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "bargain",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "be amazed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "be surprised",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "be your own boss",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "become a member",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "before it\u2019s too late",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "being a member",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "believe me",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "beneficial offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "beneficiary",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "best bargain",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "best deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "best offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "best price",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "best rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "beverage",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "biden",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "big bucks",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "billing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "billing address",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "billion",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "billion dollars",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "billionaire",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "bonus",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "brand new pager",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "bulk email",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "buy direct",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "buy now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "buy today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "buying judgements",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "buying judgments",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cable converter",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "call free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "call me",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "call now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "call now!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "calling creditors",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "can we have a minute of your time?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "can you help us?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "can\u2019t live without",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cancel",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cancel at any time",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cancel now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cancellation required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cannot be combined",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "card accepted",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cards accepted",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cash bonus",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cash out",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cash-out",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cashcards accepted",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cashcashcash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "casino",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "celebrity",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cell phone cancer scam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cents on the dollar",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "certified",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "certified pre-owned",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cheap meds",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "check or money order",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cialis",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claim now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claim your discount",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claim your gift",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claim your prize",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claims",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claims not to be selling anything",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claims to be in accordance with some spam law",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "claims to be legal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "clearance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click below",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click here",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click me to download",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click this link",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click to get",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "click to remove",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "close race",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "collect child support",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "college diploma",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "compare now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "compare online",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "compare rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "compete for your business",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "complimentary",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "confidentiality",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "confidentiality on all orders",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "confidentially on all orders",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "congratulations",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "consolidate debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "consolidate debt and credit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "consolidate your debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "contact us immediately",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "content marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "copy accurately",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "copy dvds",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cost",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "costs",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "count on you",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "covid",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "credit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "credit bureaus",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "credit card",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "credit card offers",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "credit or debit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cures",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "cures baldness",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "deal ending soon",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "dear friend",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "dear,",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "debt relief",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "democratic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "diagnostic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "diet",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "dig up dirt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "dig up dirt on friends",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "digital marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "direct email",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "direct marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "discount",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "do it now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "do it today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "do you support",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "dollars",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "don\u2019t delete",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "don\u2019t hesitate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "don\u2019t miss out!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "don\u2019t waste time",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "dormant",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "double your",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "double your cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "double your income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "double your wealth",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "drastically cut your costs",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "drastically reduced",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn $",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn extra cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn extra income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn from home",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn monthly",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn per month",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn per week",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "earn your degree",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "easy income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "easy terms",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "election",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "eliminate bad credit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "eliminate debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "eliminate your debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "email extractor",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "email harvest",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "email marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "enhance your",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "euros",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "exclusive deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "exclusive offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "expect to earn",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "expire",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "expires today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "explode your business",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "extra cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "extra income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "extract email",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "f r e e",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "fantastic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "fantastic deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "fantastic offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "fast cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "fast viagra delivery",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "final call",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "finally pay off your credit cards",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "finance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "finances",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "financial",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "financial advice",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "financial freedom",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "financial independence",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "financially independent",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for instant access",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for just $",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for just $ (amount)",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for just $xxx",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for new customers only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "for you",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "foreclosure",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "foreclosure rescue",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free access",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free bonus",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free cell phone",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free consultation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free gift",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free grant money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free hosting",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free info",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free information",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free installation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free instant",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free investment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free iphone",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free laptop",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free leads",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free macbook",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free membership",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free preview",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free priority mail",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free quote",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free sample",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free trial",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free website",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "free!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "freedom",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "full refund",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get it away",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get it now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get out of debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get paid",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get started",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get started now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "get your money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "gift card",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "gift certificate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "gift included",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "give it away",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "giveaway",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "giving away",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "giving it away",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "great deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "great offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "greetings of the day",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "grow your business fast",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "growth hormone",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "guarantee",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "guaranteed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "guaranteed deposit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "guaranteed income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "guaranteed payment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "have you been turned down?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hello (with no name included)",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hidden assets",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hidden charges",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hidden costs",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hidden fees",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "high score",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "highest paying",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home based",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home based business",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home employment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home equity line",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home mortgage",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home-based",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "home-based business",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "homebased business",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hot price",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "huge discount",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "human growth hormone",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hurry up",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "hurry!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "if only it were that easy",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "if you no longer wish to receive",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "important information",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "important information regarding",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "important notification",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "in accordance with laws",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "in our communities",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "income from home",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase revenue",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase sales",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase sales fast",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase sales/traffic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase traffic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase traffic overnight",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase your chances",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "increase your sales",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "incredible deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "info you requested",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "information you requested",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "initial investment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "instant access",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "instant earnings",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "instant income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "instant weight loss",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "insurance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "insurance lose weight",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "internet market",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "internet marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "investment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "investment advice",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "investment decision",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "invoice",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "it\u2019s effective",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "job alert",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "join billions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "join millions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "join millions of americans",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "join thousands",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "junk",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "kamala",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "kindly",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lambo",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "laser printer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "last a lifetime",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "last chance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "last day",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "legal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "legal notice",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "life insurance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lifetime",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lifetime access",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lifetime deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited amount",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited number",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited supply",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited time",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited time offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limited time only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "limitless earnings",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "loan",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "loans",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "long distance phone number",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "long distance phone offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lose weight",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lose weight fast",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lose weight spam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lottery",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "low interest",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lower interest rate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lower interest rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lower monthly payment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lower monthly payments",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lower rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lower your mortgage rate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lowest insurance rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lowest interest rate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lowest price",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lowest price ever",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lowest rate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "lowest rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "luxury",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "luxury car",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "luxury watch",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mail in order form",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "maintained",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "make $",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "make a difference",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "make money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "make money now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "male enhancement",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mark this as not junk",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "marketing solution",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "marketing solutions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mass email",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "medical",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "medicine",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "medium",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "meet girls",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "meet me",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "meet singles",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "meet women",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "member stuff",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "message contains",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "message contains disclaimer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "message from",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "million dollars",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "millionaire",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "millions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "miracle",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "miracle cure",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mlm",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mobilize",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mobilizing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "money back",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "money back guarantee",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "money making",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "money-back guarantee",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "money-making",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "month trial offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "monthly payment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "more internet traffic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mortgage",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "mortgage rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "multi level marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "multi-level marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "name brand",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "near you",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "never before",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "never pay a bill again",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "new customers only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "new domain extensions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "nigerian",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no age restrictions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no age verification",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no catch",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no claim forms",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no cost",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no credit check",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no credit check loans",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no credit experience",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no deposit required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no disappointment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no experience",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no experience needed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no fees",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no gimmick",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no hidden",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no hidden costs",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no hidden fees",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no interest",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no interests",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no inventory",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no investment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no investment required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no medical exams",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no middleman",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no obligation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no payment required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no purchase necessary",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no purchase required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no questions asked",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no selling",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no selling required",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no strings attached",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "no-obligation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "nominated bank account",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "not intended",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "not junk",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "not scam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "not spam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "notspam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "now only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "now only!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "number 1",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "number one",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "obama",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "obligation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "off everything",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "off shore",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "offer expires",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "offer extended",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "offers",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "offshore",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "once in a lifetime",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "one hundred percent",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "one hundred percent free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "one hundred percent guaranteed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "one time",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "one time mailing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "one-time",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online biz opportunity",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online business opportunity",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online degree",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online job",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online marketing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "online pharmacy",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "only $",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "opt in",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "opt-in",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "order now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "order shipped by",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "order status",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "order today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "orders shipped by",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "orders shipped by shopper",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "outstanding value",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "outstanding values",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "password",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "passwords",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "pay your bills",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "pennies a day",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "per day",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "per month",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "per week",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "per year",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "performance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "phone bank",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "please open",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "please read",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "please reply",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "polls",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "potential earnings",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "pre-approved",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "pre-foreclosure",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "presently",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "president",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "price",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "price protection",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "prices",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "print form signature",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "print from signature",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "print out and fax",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "priority mail",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "privately owned funds",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "prize",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "prizes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "problem with shipping",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "problem with your order",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "produced and sent out",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "profit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "profits",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "promise you",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "purchase",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "purchase chea",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "purchase now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "purchase today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "pure profit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "pure profits",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "quote",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "quotes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rally",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "real thing",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rebate",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "reduce debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "reduce taxes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "refinance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "refinance home",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "refinanced home",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "refund",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "refunds",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "regarding",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "removal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "removal instructions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "removes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "removes wrinkles",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rent to own",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "replica watches",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "republican",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "request",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "request more info",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "request now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "request today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "requires initial investment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "requires investment",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "reserves the right",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "reverses",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "reverses aging",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "revolutionary product",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "right now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "risk free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "risk-free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rolex",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rolex watch",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "round the world",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "rsvp",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "safeguard notice",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sale",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sale ending soon",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sales",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sample",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "satisfaction",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "satisfaction guaranteed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save $",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save big",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save big money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save big month",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save money",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "save up to",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "score",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "score with babes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "search engine",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "search engine listings",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "search engine optimisation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "search engines",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "section 301",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "see for yourself",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "seen on",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "seize the opportunity",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sent in compliance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "serious case",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "serious cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "serious offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "serious only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "shop now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "shopper",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "shopping spree",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sign up free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "sign up free today",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "slash your debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "slash your mortgage",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "snoring",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "social security number",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "solution",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "solve all your problems",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "spam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "spam free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "special deal",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "special discount",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "special for you",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "special offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "special promotion",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stainless steel",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stock alert",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stock disclaimer statement",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stock pick",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stocks/stock pick/stock alert",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stop calling me",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stop emailing me",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stop foreclosure",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stop further distribution",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stop paying rent",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stop snoring",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "strong buy",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "stuff on sale",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subject to",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subject to cash",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subject to credit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subject to\u2026",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subscribe",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subscribe for free",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "subscribe now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "success",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "super promo",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "supplies",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "supplies are limited",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "take action",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "take action now",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "terms",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "terms and conditions",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "the best",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "the best rates",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "the following form",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "they make a claim or claims that they\u2019re in accordance with spam law",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "they try to keep your money no refund",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "they\u2019re just giving it away",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "this is an ad",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "this isn\u2019t a scam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "this isn\u2019t junk",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "this isn\u2019t spam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "this won\u2019t last",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "thousands",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "time limited",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "timeshare",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "timeshare offers",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "today only",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "top urgent",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "traffic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "trial",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "trial offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "trial unlimited",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "trump",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "u.s. dollars",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unbeatable offer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unbelievable",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "undisclosed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "undisclosed recipient",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "university diplomas",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unlimited",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unlimited trial",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unsecured credit",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unsecured debt",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unsolicited",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "unsubscribe",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "urgent",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "urgent response",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "urgent response needed",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "us dollars",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "user password",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "vacation",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "vacation offers",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "valium",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "viagra",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "vicodin",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "vip",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "visit our website",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "volunteer",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "voters",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "wants credit card",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "warranty",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "warranty expired",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "we hate spam",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "we honor all",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "web traffic",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "website visitors",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "weekend getaway",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "weight loss",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "what are you waiting for?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "what\u2019s keeping you?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "while available",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "while in stock",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "while stocks last",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "while supplies last",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "while you sleep",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "white house",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "who really wins?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "why pay more?",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "will not believe your eyes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "will you join us",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "winner",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "winning",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "work at home",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "work from home",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "xanax",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "xxx",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "you are a winner",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "you have been chosen",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "you have been selected",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "you will not believe your eyes",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "you\u2019re a winner!",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "your chance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "your income",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "your instant access password",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "your status",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "zero chance",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "zero percent",
+        "useRegex": false
+    },
+    {
+        "action": "junk",
+        "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+        "type": "any",
+        "caseSensitive": false,
+        "subAction": "none",
+        "phrase": "zero risk",
+        "useRegex": false
+    }
+]

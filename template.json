@@ -1,0 +1,9 @@
+{
+    "action": "junk",
+    "id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+    "type": "any",
+    "caseSensitive": false,
+    "subAction": "none",
+    "phrase": "",
+    "useRegex": false
+}

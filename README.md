@@ -1,13 +1,22 @@
 bouncer-filters
 ===============
 
+[project](https://sr.ht/~logankirkland/bouncer-filters/) /
+[repo](https://git.sr.ht/~logankirkland/bouncer-filters) /
+[mailing list](https://lists.sr.ht/~logankirkland/bouncer-filters) /
+[issues](https://todo.sr.ht/~logankirkland/bouncer-filters)
+
+> ℹ️ **Note**  
+> The canonical project locations are linked above. Other locations are
+> mirrors.
+
 A filter list generator for the
 [Bouncer](https://github.com/afterxleep/Bouncer) SMS filtering app.
 
 Usage
 -----
 
-Get the latest output file 
+Get the latest output file
 [from the repo](https://git.sr.ht/~logankirkland/bouncer-filters/tree/master/item/output).
 
 Or, generate the output yourself:
@@ -22,6 +31,11 @@ Or, generate the output yourself:
 
 Configuration
 -------------
+
+### Input
+
+`input_list.txt` was created from a number of different 'common spam
+phrases' lists from across the internet. Modify it as you wish.
 
 ### Word lists
 
@@ -43,6 +57,14 @@ from `first20hours/google-10000-english` and contains a list of the
 
 Two files are output, one for each word list described above. Choose
 whichever strictness you prefer.
+
+Contribution
+------------
+
+Ideally, suggest changes using the 
+[Sourcehut mailing list](https://lists.sr.ht/~logankirkland/bouncer-filters).
+You can also create an issue on the 
+[Github Issues page](https://github.com/logkirk/bouncer-filters/issues).
 
 License
 -------

@@ -6,12 +6,12 @@ bouncer-filters
 [mailing list](https://lists.sr.ht/~logankirkland/bouncer-filters) /
 [issues](https://todo.sr.ht/~logankirkland/bouncer-filters)
 
+A filter list generator for the
+[Bouncer](https://github.com/afterxleep/Bouncer) SMS filtering app.
+
 > ℹ️ **Note**  
 > The canonical project locations are linked above. Other locations are
 > mirrors.
-
-A filter list generator for the
-[Bouncer](https://github.com/afterxleep/Bouncer) SMS filtering app.
 
 Usage
 -----
@@ -61,9 +61,9 @@ whichever strictness you prefer.
 Contribution
 ------------
 
-Ideally, suggest changes using the 
+Ideally, suggest changes using the
 [Sourcehut mailing list](https://lists.sr.ht/~logankirkland/bouncer-filters).
-You can also create an issue on the 
+You can also create an issue on the
 [Github Issues page](https://github.com/logkirk/bouncer-filters/issues).
 
 License

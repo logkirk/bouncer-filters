@@ -7,6 +7,11 @@ A filter list generator for the
 Usage
 -----
 
+Get the latest output file 
+[from the repo](https://git.sr.ht/~logankirkland/bouncer-filters/tree/master/item/output).
+
+Or, generate the output yourself:
+
 1. Add words to the input list `input_list.txt`.
 2. Run the program:
 
